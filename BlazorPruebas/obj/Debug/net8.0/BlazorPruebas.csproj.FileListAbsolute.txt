@@ -1,0 +1,5 @@
+D:\Usuarios\carlos.archila\Desktop\Carlos Archila\BlazorPruebas\BlazorPruebas\obj\Debug\net8.0\BlazorPruebas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\carlos.archila\Desktop\Carlos Archila\BlazorPruebas\BlazorPruebas\obj\Debug\net8.0\BlazorPruebas.AssemblyInfoInputs.cache
+D:\Usuarios\carlos.archila\Desktop\Carlos Archila\BlazorPruebas\BlazorPruebas\obj\Debug\net8.0\BlazorPruebas.AssemblyInfo.cs
+D:\Usuarios\carlos.archila\Desktop\Carlos Archila\BlazorPruebas\BlazorPruebas\obj\Debug\net8.0\BlazorPruebas.csproj.CoreCompileInputs.cache
+D:\Usuarios\carlos.archila\Desktop\Carlos Archila\BlazorPruebas\BlazorPruebas\obj\Debug\net8.0\BlazorPruebas.MvcApplicationPartsAssemblyInfo.cache

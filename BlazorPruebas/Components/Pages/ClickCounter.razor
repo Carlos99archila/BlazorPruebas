@@ -1,0 +1,47 @@
+@page "/clickcounter"
+@rendermode InteractiveServer
+@inject NavigationManager Navigation
+@using Microsoft.AspNetCore.SignalR.Client
+
+<PageTitle>Real-time Click Counter</PageTitle>
+
+<h3>Contador de Clicks: @contador</h3>
+<button @onclick="IncrementarContador">¡Haz Click!</button>
+
+@code {
+    private int contador;
+    private HubConnection? hubConnection;
+
+    protected override async Task OnInitializedAsync()
+    {
+        hubConnection = new HubConnectionBuilder()
+            .WithUrl(Navigation.ToAbsoluteUri("/clickhub")) 
+            .WithAutomaticReconnect()
+            .Build();
+
+        hubConnection.On<int>("ActualizarContador", async (nuevoValor) =>
+        {
+            contador = nuevoValor;
+            await InvokeAsync(StateHasChanged); // 🔥 Forzar la actualización en Blazor
+        });
+
+        await hubConnection.StartAsync();
+        await hubConnection.SendAsync("ObtenerContador");
+    }
+
+    private async Task IncrementarContador()
+    {
+        if (hubConnection is not null)
+        {
+            await hubConnection.SendAsync("IncrementarContador");
+        }
+    }
+
+    public async ValueTask DisposeAsync()
+    {
+        if (hubConnection is not null)
+        {
+            await hubConnection.DisposeAsync();
+        }
+    }
+}

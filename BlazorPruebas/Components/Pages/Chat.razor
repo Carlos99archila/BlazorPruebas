@@ -1,0 +1,105 @@
+@page "/chat"
+@rendermode InteractiveServer
+@inject NavigationManager Navigation
+@inject IJSRuntime JS
+@using Markdig
+@using Microsoft.AspNetCore.SignalR.Client
+
+
+<PageTitle>Chat en Tiempo Real</PageTitle>
+
+<h3>Chat en Vivo</h3>
+
+<div>
+    <input placeholder="Tu nombre" @bind="userName" />
+    <br />
+    <textarea @bind="message" placeholder="Escribe un mensaje..."></textarea>
+    <br />
+    <button @onclick="SendMessage">Enviar</button>
+</div>
+
+<hr />
+
+<ul>
+    @foreach (var msg in messages)
+    {
+        <li><strong>@msg.User:</strong> @((MarkupString)Markdig.Markdown.ToHtml(msg.Text))</li>
+    }
+</ul>
+
+@code {
+    private HubConnection? hubConnection;
+    private string userName = "Usuario";
+    private string message = "";
+    private List<Message> messages = new();
+
+    protected override async Task OnInitializedAsync()
+    {
+        hubConnection = new HubConnectionBuilder()
+            .WithUrl(Navigation.ToAbsoluteUri("/chathub")) // ✅ Conexión al Hub
+            .WithAutomaticReconnect()
+            .Build();
+
+        hubConnection.On<string, string>("ReceiveMessage", async (user, text) =>
+        {
+            messages.Add(new Message { User = user, Text = text });
+            await SaveMessages(); // 🔥 Guardar en LocalStorage
+            await PlayNotificationSound(); // 🔔 Reproducir sonido
+            await InvokeAsync(StateHasChanged); // 🔥 Refrescar la UI en tiempo real
+        });
+
+        await hubConnection.StartAsync();
+    }
+
+    // 🔥 Ejecutar LoadMessages SOLO después de que el renderizado haya ocurrido
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            await LoadMessages(); //Cargar mensajes al iniciar
+            StateHasChanged();
+        }
+    }
+    private async Task SendMessage()
+    {
+        if (!string.IsNullOrWhiteSpace(message) && hubConnection is not null)
+        {
+            await hubConnection.SendAsync("SendMessage", userName, message);
+            message = "";
+        }
+    }
+
+    private async Task SaveMessages()
+    {
+        var json = System.Text.Json.JsonSerializer.Serialize(messages);
+        await JS.InvokeVoidAsync("localStorage.setItem", "chatMessages", json);
+    }
+
+    private async Task LoadMessages()
+    {
+        var json = await JS.InvokeAsync<string>("localStorage.getItem", "chatMessages");
+        if (!string.IsNullOrEmpty(json))
+        {
+            messages = System.Text.Json.JsonSerializer.Deserialize<List<Message>>(json) ?? new();
+        }
+    }
+
+    public async ValueTask DisposeAsync()
+    {
+        if (hubConnection is not null)
+        {
+            await hubConnection.DisposeAsync();
+        }
+    }
+    
+    private async Task PlayNotificationSound()
+    {
+        await JS.InvokeVoidAsync("playSound");
+    }
+
+    private class Message
+    {
+        public string User { get; set; } = "";
+        public string Text { get; set; } = "";
+    }
+}

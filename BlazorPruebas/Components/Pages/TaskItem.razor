@@ -1,0 +1,79 @@
+@page "/taskitem"
+@rendermode InteractiveServer
+@inject IJSRuntime JS
+
+<PageTitle>TaskItem</PageTitle>
+
+<h3>List of task  ->  @ItemList.Count(ItemList => ItemList.IsDone)/@ItemList.Count() </h3>
+
+<input placeholder="Something item" @bind="newItem" />
+<button @onclick="AddItem">Add item</button>
+<button @onclick="ClearAll">Clear All</button>
+
+<ul>
+    @foreach (var item in ItemList)
+    {
+        <li>
+            <input type="checkbox" @bind="item.IsDone" />
+            <input @bind="item.Title" />
+            <button @onclick="() => RemoveItem(item)">❌</button>
+        </li>
+    }
+</ul>
+
+
+@code {
+    private List<ClassItem> ItemList = [];
+    private string? newItem;
+    private bool isJSInitialized = false;
+
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender && !isJSInitialized)
+        {
+            await LoadTasks();
+            isJSInitialized = true;
+            StateHasChanged(); // Forzar redibujado con datos cargados
+        }
+    }
+
+    private async Task AddItem()
+    {
+        if (!string.IsNullOrWhiteSpace(newItem))
+        {
+            ItemList.Add(new ClassItem { Title = newItem });
+            newItem = string.Empty;
+            await SaveTasks();
+        }
+    }
+
+    private async Task RemoveItem(ClassItem item)
+    {
+        ItemList.Remove(item);
+        await SaveTasks();
+    }
+
+
+    private async Task ClearAll()
+    {
+        ItemList.Clear(); // Vaciar la lista en memoria
+        await SaveTasks(); // Guardar la lista vacía en localStorage
+        StateHasChanged(); // Forzar actualización de la UI
+    }
+
+    private async Task SaveTasks()
+    {
+        var json = System.Text.Json.JsonSerializer.Serialize(ItemList);
+        await JS.InvokeVoidAsync("localStorage.setItem", "task", json);
+    }
+
+    private async Task LoadTasks()
+    {
+        var json = await JS.InvokeAsync<string>("localStorage.getItem", "task");
+        if (!string.IsNullOrEmpty(json))
+        {
+            ItemList = System.Text.Json.JsonSerializer.Deserialize<List<ClassItem>>(json)??[];
+        }
+    }
+}

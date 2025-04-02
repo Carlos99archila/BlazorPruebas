@@ -1,0 +1,48 @@
+﻿@page "/"
+@rendermode InteractiveServer
+
+<PageTitle>Home</PageTitle>
+
+<h3>Bienvenido a Blazor, @nombreUsuario</h3>
+
+<p>Ingresa tu nombre:</p>
+<input @bind="nombreUsuario" placeholder="Escribe tu nombre aquí" />
+
+<p>Haz clic en el botón para cambiar el color de fondo.</p>
+<button @onclick="CambiarColor">Cambiar Color</button>
+<p>Veces cambiado: @contador</p>
+
+<div id="fondoDiv" class="fondo" style="background-color: @colorFondo;">
+    <h1>¡Hola, @nombreUsuario!</h1>
+</div>
+
+<style>
+    .fondo {
+        width: 100%;
+        height: 50vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        transition: background-color 0.5s;
+        color: white;
+    }
+</style>
+
+@code {
+    private string nombreUsuario { get; set; } = "Usuario";
+    private string colorFondo { get; set; } = "black";
+    private int contador { get; set; } = 0;
+    private Random random = new Random();
+
+    private void CambiarColor()
+    {
+        var colores = new[] { "red", "blue", "green", "yellow", "purple", "orange", "black"};
+        colorFondo = colores[random.Next(colores.Length)];
+        contador++;
+
+        // Forzar la actualización del UI en Blazor Web App
+        StateHasChanged();
+    }
+}
+
