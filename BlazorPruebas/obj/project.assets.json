@@ -782,11 +782,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Usuarios\\carlos.archila\\Desktop\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\BlazorPruebas.csproj",
+      "projectUniqueName": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\BlazorPruebas.csproj",
       "projectName": "BlazorPruebas",
-      "projectPath": "D:\\Usuarios\\carlos.archila\\Desktop\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\BlazorPruebas.csproj",
+      "projectPath": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\BlazorPruebas.csproj",
       "packagesPath": "D:\\Usuarios\\carlos.archila\\.nuget\\packages\\",
-      "outputPath": "D:\\Usuarios\\carlos.archila\\Desktop\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\",
+      "outputPath": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
