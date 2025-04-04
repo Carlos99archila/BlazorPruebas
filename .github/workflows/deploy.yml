@@ -10,26 +10,29 @@ permissions:
 
 jobs:
   deploy:
-
     runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v3
+
     - name: Setup .NET Core
       uses: actions/setup-dotnet@v3
       with:
-        dotnet-version: '9.0.x'
+        dotnet-version: '8.0.x'
+
     - name: Publish with dotnet
       run: dotnet publish --configuration Release --output build
-    # changes the base-tag in index.html from '/' to 'BlazorAppSpendsRegister' to match GitHub Pages repository subdirectory
-    - name: Change base-tag in index.html from / to BlazorAppSpendsRegister
-      run: sed -i 's/<base href="\/" \/>/<base href="\/BlazorAppSpendsRegister\/" \/>/g' build/wwwroot/index.html
-    #Quitar el jekyll porque Blazor no lo usa y arroja error
+
+    - name: Change base-tag in index.html from / to BlazorPruebas
+      run: sed -i 's/<base href="\/" \/>/<base href="\/BlazorPruebas\/" \/>/g' build/wwwroot/index.html
+
     - name: Disable Jekyll
       run: touch build/wwwroot/.nojekyll
-    - name: Commit wwwroot to GitHub Pages
-      uses: JamesIves/github-pages-deploy-action@4.3.0
+
+    - name: Upload artifact
+      uses: actions/upload-pages-artifact@v2
       with:
-        GITHUB_TOKEN: ${{ secrets.PUBLISH_TOKEN }}
-        BRANCH: gh-pages
-        FOLDER: build/wwwroot
+        path: build/wwwroot
+
+    - name: Deploy to GitHub Pages
+      uses: actions/deploy-pages@v2
