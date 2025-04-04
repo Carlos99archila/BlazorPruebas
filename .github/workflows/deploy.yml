@@ -24,6 +24,9 @@ jobs:
     # changes the base-tag in index.html from '/' to 'BlazorAppSpendsRegister' to match GitHub Pages repository subdirectory
     - name: Change base-tag in index.html from / to BlazorAppSpendsRegister
       run: sed -i 's/<base href="\/" \/>/<base href="\/BlazorAppSpendsRegister\/" \/>/g' build/wwwroot/index.html
+    #Quitar el jekyll porque Blazor no lo usa y arroja error
+    - name: Disable Jekyll
+      run: touch build/wwwroot/.nojekyll
     - name: Commit wwwroot to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@4.3.0
       with:
