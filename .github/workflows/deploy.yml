@@ -23,16 +23,24 @@ jobs:
     - name: Publish with dotnet
       run: dotnet publish --configuration Release --output build
 
-    - name: Change base-tag in index.html from / to BlazorPruebas
-      run: sed -i 's/<base href="\/" \/>/<base href="\/BlazorPruebas\/" \/>/g' build/wwwroot/index.html
+    - name: Move published files to wwwroot
+      run: mv build/wwwroot/* build/
+
+    - name: Fix base tag for GitHub Pages
+      run: |
+        if [ -f "build/index.html" ]; then
+          sed -i 's|<base href="/" />|<base href="/BlazorPruebas/" />|g' build/index.html
+        fi
 
     - name: Disable Jekyll
-      run: touch build/wwwroot/.nojekyll
+      run: |
+        touch build/.nojekyll
+        ls -la build/
 
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v2
       with:
-        path: build/wwwroot
+        path: build/
 
     - name: Deploy to GitHub Pages
       uses: actions/deploy-pages@v2
