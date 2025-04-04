@@ -14,9 +14,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
     - name: Setup .NET Core
-      uses: actions/setup-dotnet@v1
+      uses: actions/setup-dotnet@v3
       with:
         dotnet-version: '9.0.x'
     - name: Publish with dotnet
@@ -25,7 +25,7 @@ jobs:
     - name: Change base-tag in index.html from / to BlazorAppSpendsRegister
       run: sed -i 's/<base href="\/" \/>/<base href="\/BlazorAppSpendsRegister\/" \/>/g' build/wwwroot/index.html
     - name: Commit wwwroot to GitHub Pages
-      uses: JamesIves/github-pages-deploy-action@3.7.1
+      uses: JamesIves/github-pages-deploy-action@4.3.0
       with:
         GITHUB_TOKEN: ${{ secrets.PUBLISH_TOKEN }}
         BRANCH: gh-pages
