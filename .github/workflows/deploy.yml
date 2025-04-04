@@ -1,0 +1,40 @@
+name: Deploy Blazor WebAssembly to GitHub Pages
+
+on:
+  push:
+    branches:
+      - master
+
+permissions: 
+  contents: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Setup .NET Core
+      uses: actions/setup-dotnet@v3
+      with:
+        dotnet-version: '8.0.x'
+
+    - name: Publish Blazor WebAssembly
+      run: dotnet publish --configuration Release --output build
+
+    - name: Move published files
+      run: mv build/wwwroot/* build/
+
+    - name: Fix base tag for GitHub Pages
+      run: sed -i 's|<base href="/" />|<base href="/BlazorPruebas/" />|g' build/index.html
+
+    - name: Disable Jekyll
+      run: touch build/.nojekyll
+
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.PUBLISH_TOKEN }}
+        publish_dir: build
+        force_orphan: true
