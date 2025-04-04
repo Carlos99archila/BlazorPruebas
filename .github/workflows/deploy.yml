@@ -1,4 +1,4 @@
-name: gh-pages
+name: Deploy Blazor WebAssembly to GitHub Pages
 
 on:
   push:
@@ -20,27 +20,21 @@ jobs:
       with:
         dotnet-version: '8.0.x'
 
-    - name: Publish with dotnet
+    - name: Publish Blazor WebAssembly
       run: dotnet publish --configuration Release --output build
 
-    - name: Move published files to wwwroot
+    - name: Move published files
       run: mv build/wwwroot/* build/
 
     - name: Fix base tag for GitHub Pages
-      run: |
-        if [ -f "build/index.html" ]; then
-          sed -i 's|<base href="/" />|<base href="/BlazorPruebas/" />|g' build/index.html
-        fi
+      run: sed -i 's|<base href="/" />|<base href="/BlazorPruebas/" />|g' build/index.html
 
     - name: Disable Jekyll
-      run: |
-        touch build/.nojekyll
-        ls -la build/
-
-    - name: Upload artifact
-      uses: actions/upload-pages-artifact@v2
-      with:
-        path: build/
+      run: touch build/.nojekyll
 
     - name: Deploy to GitHub Pages
-      uses: actions/deploy-pages@v2
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: build
+        force_orphan: true
