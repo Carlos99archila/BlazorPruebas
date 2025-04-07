@@ -3,18 +3,20 @@
 
 <PageTitle>Home</PageTitle>
 
-<h3>Bienvenido a Blazor, @nombreUsuario</h3>
-
-<p>Ingresa tu nombre:</p>
-<input @bind="nombreUsuario" placeholder="Escribe tu nombre aquí" />
-
-<p>Haz clic en el botón para cambiar el color de fondo.</p>
-<button @onclick="CambiarColor">Cambiar Color</button>
-<p>Veces cambiado: @contador</p>
-
 <div id="fondoDiv" class="fondo" style="background-color: @colorFondo;">
+    <h3>Bienvenido a Blazor</h3>
+
+    @* <h3>Bienvenido a Blazor, @nombreUsuario</h3>
+    <p>Ingresa tu nombre:</p>
+    <input @bind="nombreUsuario" placeholder="Escribe tu nombre aquí" /> *@
+
+    <p>Haz clic en el botón para cambiar el color de fondo.</p>
+    <button @onclick="CambiarColor">Cambiar Color</button>
+    <p>Veces cambiado: @contador</p>
+
     <h1>¡Hola, @nombreUsuario!</h1>
 </div>
+
 
 <style>
     .fondo {

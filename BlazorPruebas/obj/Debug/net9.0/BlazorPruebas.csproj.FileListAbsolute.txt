@@ -182,8 +182,6 @@ D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\Blaz
 D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\obj\Debug\net9.0\compressed\p0lkf1rnss-h1s4sie4z3.gz
 D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\obj\Debug\net9.0\compressed\474og4usf2-63fj8s7r0e.gz
 D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\obj\Debug\net9.0\compressed\24q6anfnnr-0j3bgjxly4.gz
-D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\obj\Debug\net9.0\compressed\shwqidvi2m-uwjv1w6ztd.gz
-D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\obj\Debug\net9.0\compressed\fvqdvx19p0-uwjv1w6ztd.gz
 D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\obj\Debug\net9.0\staticwebassets.build.json
 D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\obj\Debug\net9.0\staticwebassets.development.json
 D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\obj\Debug\net9.0\staticwebassets.build.endpoints.json
@@ -199,3 +197,5 @@ D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\Blaz
 D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\obj\Debug\net9.0\BlazorPruebas.pdb
 D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\obj\Debug\net9.0\BlazorPruebas.genruntimeconfig.cache
 D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\obj\Debug\net9.0\ref\BlazorPruebas.dll
+D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\obj\Debug\net9.0\compressed\shwqidvi2m-xo956zvuin.gz
+D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\obj\Debug\net9.0\compressed\fvqdvx19p0-xo956zvuin.gz

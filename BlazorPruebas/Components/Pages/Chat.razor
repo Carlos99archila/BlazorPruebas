@@ -132,7 +132,9 @@
         {
             messages.Add(new Message { User = user, Text = text });
             await SaveMessages(); // 🔥 Guardar en LocalStorage
-            await PlayNotificationSound(); // 🔔 Reproducir sonido
+            if (user != userName) {
+                await PlayNotificationSound(); // 🔔 Reproducir sonido
+            }
             await InvokeAsync(StateHasChanged); // 🔥 Refrescar la UI en tiempo real
             await ScrollToBottom(); // 🔥 Aseguramos que haga scroll
         });
