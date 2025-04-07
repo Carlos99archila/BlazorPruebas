@@ -10,28 +10,116 @@
 
 <h3>Chat en Vivo</h3>
 
-<div>
-    <input placeholder="Tu nombre" @bind="userName" />
-    <br />
-    <textarea @bind="message" placeholder="Escribe un mensaje..."></textarea>
-    <br />
-    <button @onclick="SendMessage">Enviar</button>
+<div class="chat-container">
+    <!-- 🔥 Mensajes arriba -->
+    <div class="messages-container" id="messagesContainer">
+        @foreach (var msg in messages)
+        {
+            <div class="message @(msg.User == userName ? "sent" : "received")">
+                <strong>@msg.User:</strong> @((MarkupString)Markdown.ToHtml(msg.Text))
+                @if (msg.User == userName)
+                {
+                    <button @onclick="() => DeleteMessage(msg)">🗑</button>
+                }
+            </div>
+        }
+    </div>
+
+    <!-- 🔥 Área de entrada fija abajo -->
+    <div class="input-container">
+        <input class="name-input" placeholder="Tu nombre" @bind="userName" disabled="@isNameSet" />
+        <textarea class="message-input" @bind="message" placeholder="Escribe un mensaje..."></textarea>
+        <button class="send-btn" @onclick="SendMessage">Enviar</button>
+    </div>
 </div>
 
-<hr />
-
-<ul>
-    @foreach (var msg in messages)
-    {
-        <li><strong>@msg.User:</strong> @((MarkupString)Markdig.Markdown.ToHtml(msg.Text))</li>
+<style>
+    /* 🔹 Contenedor principal */
+    .chat-container {
+        display: flex;
+        flex-direction: column;
+        height: 80vh;
+        max-width: 600px;
+        margin: auto;
+        border: 2px solid #ccc;
+        border-radius: 10px;
+        overflow: hidden;
     }
-</ul>
+
+    /* 🔹 Área de mensajes */
+    .messages-container {
+        flex: 1;
+        overflow-y: auto;
+        padding: 10px;
+        background-color: #f9f9f9;
+        display: flex;
+        flex-direction: column;
+    }
+
+    /* 🔹 Mensajes alineados */
+    .message {
+        padding: 10px;
+        margin-bottom: 5px;
+        border-radius: 10px;
+        max-width: 100%; /* ✅ Ocupar todo el ancho del chat */
+        word-wrap: break-word;
+        display: inline-block;
+    }
+
+    /* Mensajes recibidos (izquierda) */
+    .received {
+        background-color: #f1f1f1;
+        text-align: left;
+        align-self: flex-start;
+        width: 100%; /* ✅ Asegura que el mensaje ocupe todo el ancho */
+    }
+
+    /* Mensajes enviados (derecha) */
+    .sent {
+        background-color: #1C1959;
+        color: white;
+        text-align: right;
+        align-self: flex-end;
+        width: 100%; /* ✅ Asegura que el mensaje ocupe todo el ancho */
+    }
+
+    /* Área de entrada fija abajo */
+    .input-container {
+        display: flex;
+        flex-direction: column;
+        padding: 10px;
+        background-color: #fff;
+        border-top: 2px solid #ccc;
+    }
+
+    .name-input, .message-input {
+        padding: 10px;
+        margin-bottom: 5px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        width: 100%;
+    }
+
+    .send-btn {
+        padding: 10px;
+        background-color: #3A0647;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+    .send-btn:hover {
+        background-color: #796791;
+    }
+</style>
 
 @code {
     private HubConnection? hubConnection;
     private string userName = "Usuario";
     private string message = "";
     private List<Message> messages = new();
+    private bool isNameSet = false;
 
     protected override async Task OnInitializedAsync()
     {
@@ -46,6 +134,7 @@
             await SaveMessages(); // 🔥 Guardar en LocalStorage
             await PlayNotificationSound(); // 🔔 Reproducir sonido
             await InvokeAsync(StateHasChanged); // 🔥 Refrescar la UI en tiempo real
+            await ScrollToBottom(); // 🔥 Aseguramos que haga scroll
         });
 
         await hubConnection.StartAsync();
@@ -58,16 +147,32 @@
         {
             await LoadMessages(); //Cargar mensajes al iniciar
             StateHasChanged();
+            var savedUserName = await JS.InvokeAsync<string>("localStorage.getItem", "chatUserName");
+            if (!string.IsNullOrEmpty(savedUserName))
+            {
+                userName = savedUserName;
+                isNameSet = true;
+                StateHasChanged(); // 🔥 Forzar actualización de la UI
+            }
         }
     }
+
     private async Task SendMessage()
     {
         if (!string.IsNullOrWhiteSpace(message) && hubConnection is not null)
         {
+            if (!isNameSet)
+            {
+                isNameSet = true;
+                await JS.InvokeVoidAsync("localStorage.setItem", "chatUserName", userName); // Guardar nombre
+            }
+
             await hubConnection.SendAsync("SendMessage", userName, message);
             message = "";
+            await ScrollToBottom();
         }
     }
+
 
     private async Task SaveMessages()
     {
@@ -82,6 +187,15 @@
         {
             messages = System.Text.Json.JsonSerializer.Deserialize<List<Message>>(json) ?? new();
         }
+        await ScrollToBottom();
+    }
+
+    private async Task DeleteMessage(Message msg)
+    {
+        messages.Remove(msg);
+        await SaveMessages();
+        await JS.InvokeVoidAsync("scrollToBottom");
+        await InvokeAsync(StateHasChanged);
     }
 
     public async ValueTask DisposeAsync()
@@ -95,6 +209,11 @@
     private async Task PlayNotificationSound()
     {
         await JS.InvokeVoidAsync("playSound");
+    }
+
+    private async Task ScrollToBottom()
+    {
+        await JS.InvokeVoidAsync("scrollToBottom");
     }
 
     private class Message
