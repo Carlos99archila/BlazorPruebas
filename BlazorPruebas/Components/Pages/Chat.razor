@@ -28,7 +28,7 @@
     <!-- 🔥 Área de entrada fija abajo -->
     <div class="input-container">
         <input class="name-input" placeholder="Tu nombre" @bind="userName" disabled="@isNameSet" />
-        <textarea class="message-input" @bind="message" placeholder="Escribe un mensaje..."></textarea>
+        <textarea class="message-input" @bind="message" @onkeydown="HandleKeyDown" placeholder="Escribe un mensaje..."></textarea>
         <button class="send-btn" @onclick="SendMessage">Enviar</button>
     </div>
 </div>
@@ -217,6 +217,15 @@
     {
         await JS.InvokeVoidAsync("scrollToBottom");
     }
+
+    private async Task HandleKeyDown(KeyboardEventArgs e)
+{
+    if (e.Key == "Enter")
+    {
+        await SendMessage();
+    }
+}
+
 
     private class Message
     {

@@ -2,24 +2,100 @@
 @rendermode InteractiveServer
 @inject IJSRuntime JS
 
+
 <PageTitle>TaskItem</PageTitle>
 
-<h3>List of task  ->  @ItemList.Count(ItemList => ItemList.IsDone)/@ItemList.Count() </h3>
+<div class="container">
+    <h1>Lista de tareas -> @ItemList.Count(i => i.IsDone)/@ItemList.Count()</h1>
 
-<input placeholder="Something item" @bind="newItem" />
-<button @onclick="AddItem">Add item</button>
-<button @onclick="ClearAll">Clear All</button>
+    <div class="input-area">
+        <input placeholder="Nueva tarea" @bind="newItem" class="text-input" />
+        <button class="btn blue" @onclick="AddItem">Agregar</button>
+        <button class="btn red" @onclick="ClearAll">Eliminar todo</button>
+    </div>
 
-<ul>
-    @foreach (var item in ItemList)
-    {
-        <li>
-            <input type="checkbox" @bind="item.IsDone" />
-            <input @bind="item.Title" />
-            <button @onclick="() => RemoveItem(item)">❌</button>
-        </li>
+    <ul class="task-list">
+        @foreach (var item in ItemList)
+        {
+            <li class="task-item">
+                <input type="checkbox" checked="@item.IsDone" @onchange="(e) => OnCheckboxChanged(e, item)" />
+                <input class="text-input small @(item.IsDone ? "done" : "")" @bind="item.Title" />
+                <button class="btn small red" @onclick="() => RemoveItem(item)">❌</button>
+            </li>
+        }
+    </ul>
+</div>
+
+
+
+<style>
+    .container {
+        text-align: center;
+        max-width: 600px;
+        margin: 2rem auto;
+        padding: 1rem;
     }
-</ul>
+
+    .input-area {
+        margin-bottom: 1.5rem;
+    }
+
+    .task-list {
+        list-style: none;
+        padding: 0;
+    }
+
+    .task-item {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 0.5rem;
+        margin-bottom: 0.5rem;
+    }
+
+    .text-input {
+        padding: 0.5rem;
+        border-radius: 6px;
+        border: 1px solid #ccc;
+        width: 60%;
+    }
+
+    .text-input.small {
+        width: 40%;
+    }
+
+    .btn {
+        padding: 0.5rem 1rem;
+        border: none;
+        border-radius: 6px;
+        cursor: pointer;
+        font-weight: bold;
+    }
+
+    .btn.blue {
+        background-color: #007bff;
+        color: white;
+    }
+
+    .btn.red {
+        background-color: #dc3545;
+        color: white;
+    }
+
+    .btn.small {
+        padding: 0.3rem 0.6rem;
+    }
+
+    .btn:hover {
+        opacity: 0.9;
+    }
+
+    .done {
+    text-decoration: line-through;
+    color: #999;
+}
+</style>
+
 
 
 @code {
@@ -76,4 +152,10 @@
             ItemList = System.Text.Json.JsonSerializer.Deserialize<List<ClassItem>>(json)??[];
         }
     }
+    private async Task OnCheckboxChanged(ChangeEventArgs e, ClassItem item)
+    {
+        item.IsDone = (bool)e.Value!;
+        await SaveTasks();
+    }
+
 }

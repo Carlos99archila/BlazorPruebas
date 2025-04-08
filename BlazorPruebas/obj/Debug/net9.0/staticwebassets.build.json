@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "NQOWdINhrr2dOibxX0fYJSIiogLTtc2RRYjrIPqgTPQ=",
+  "Hash": "9cyImmB9c/EOb7fWMawnotjW/R6cylO0VC4WKY6Qea8=",
   "Source": "BlazorPruebas",
   "BasePath": ".",
   "Mode": "Default",
@@ -479,12 +479,12 @@
       "OriginalItemSpec": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\fvqdvx19p0-xo956zvuin.gz",
+      "Identity": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\fvqdvx19p0-p84dfzxk9h.gz",
       "SourceId": "BlazorPruebas",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": ".",
-      "RelativePath": "BlazorPruebas#[.{fingerprint=xo956zvuin}]!.bundle.scp.css.gz",
+      "RelativePath": "BlazorPruebas#[.{fingerprint=p84dfzxk9h}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -493,8 +493,8 @@
       "RelatedAsset": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BlazorPruebas.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "8qyjas3mwp",
-      "Integrity": "kCDT1641+FxyysVza0buFsQ1pM3T83/Ch6REqc12sOo=",
+      "Fingerprint": "5rh5te83dm",
+      "Integrity": "36HH47hTfzXX3x9K4aH7ILQaxmPTgiCJONTLfJDvq2c=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BlazorPruebas.bundle.scp.css"
@@ -836,12 +836,12 @@
       "OriginalItemSpec": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\shwqidvi2m-xo956zvuin.gz",
+      "Identity": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\shwqidvi2m-p84dfzxk9h.gz",
       "SourceId": "BlazorPruebas",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": ".",
-      "RelativePath": "BlazorPruebas#[.{fingerprint=xo956zvuin}]?.styles.css.gz",
+      "RelativePath": "BlazorPruebas#[.{fingerprint=p84dfzxk9h}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -850,8 +850,8 @@
       "RelatedAsset": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\scopedcss\\bundle\\BlazorPruebas.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "8qyjas3mwp",
-      "Integrity": "kCDT1641+FxyysVza0buFsQ1pM3T83/Ch6REqc12sOo=",
+      "Fingerprint": "5rh5te83dm",
+      "Integrity": "36HH47hTfzXX3x9K4aH7ILQaxmPTgiCJONTLfJDvq2c=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\scopedcss\\bundle\\BlazorPruebas.styles.css"
@@ -1018,8 +1018,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "xo956zvuin",
-      "Integrity": "r51h0u8xyLP2q6T88njJesuECgAydtwM9H8txjq76ZE=",
+      "Fingerprint": "p84dfzxk9h",
+      "Integrity": "uUFJrE1enZRE88ZZbvSdpjsVHv81//yWGz5ZF/Ay7xw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\scopedcss\\bundle\\BlazorPruebas.styles.css"
@@ -1039,8 +1039,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "xo956zvuin",
-      "Integrity": "r51h0u8xyLP2q6T88njJesuECgAydtwM9H8txjq76ZE=",
+      "Fingerprint": "p84dfzxk9h",
+      "Integrity": "uUFJrE1enZRE88ZZbvSdpjsVHv81//yWGz5ZF/Ay7xw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BlazorPruebas.bundle.scp.css"
@@ -2334,12 +2334,12 @@
     },
     {
       "Route": "BlazorPruebas.bundle.scp.css",
-      "AssetFile": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\fvqdvx19p0-xo956zvuin.gz",
+      "AssetFile": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\fvqdvx19p0-p84dfzxk9h.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000394011032"
+          "Quality": "0.000401606426"
         }
       ],
       "ResponseHeaders": [
@@ -2349,15 +2349,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2537"
+          "Value": "2489"
         },
         {
           "Name": "ETag",
-          "Value": "\"kCDT1641+FxyysVza0buFsQ1pM3T83/Ch6REqc12sOo=\""
+          "Value": "\"36HH47hTfzXX3x9K4aH7ILQaxmPTgiCJONTLfJDvq2c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 07 Apr 2025 20:44:04 GMT"
+          "Value": "Tue, 08 Apr 2025 14:02:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2377,13 +2377,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"r51h0u8xyLP2q6T88njJesuECgAydtwM9H8txjq76ZE=\""
+          "Value": "W/\"uUFJrE1enZRE88ZZbvSdpjsVHv81//yWGz5ZF/Ay7xw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-r51h0u8xyLP2q6T88njJesuECgAydtwM9H8txjq76ZE="
+          "Value": "sha256-uUFJrE1enZRE88ZZbvSdpjsVHv81//yWGz5ZF/Ay7xw="
         }
       ]
     },
@@ -2398,7 +2398,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8441"
+          "Value": "8308"
         },
         {
           "Name": "Content-Type",
@@ -2406,11 +2406,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"r51h0u8xyLP2q6T88njJesuECgAydtwM9H8txjq76ZE=\""
+          "Value": "\"uUFJrE1enZRE88ZZbvSdpjsVHv81//yWGz5ZF/Ay7xw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 07 Apr 2025 20:44:04 GMT"
+          "Value": "Tue, 08 Apr 2025 14:02:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2420,13 +2420,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-r51h0u8xyLP2q6T88njJesuECgAydtwM9H8txjq76ZE="
+          "Value": "sha256-uUFJrE1enZRE88ZZbvSdpjsVHv81//yWGz5ZF/Ay7xw="
         }
       ]
     },
     {
       "Route": "BlazorPruebas.bundle.scp.css.gz",
-      "AssetFile": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\fvqdvx19p0-xo956zvuin.gz",
+      "AssetFile": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\fvqdvx19p0-p84dfzxk9h.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2435,7 +2435,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2537"
+          "Value": "2489"
         },
         {
           "Name": "Content-Type",
@@ -2443,11 +2443,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kCDT1641+FxyysVza0buFsQ1pM3T83/Ch6REqc12sOo=\""
+          "Value": "\"36HH47hTfzXX3x9K4aH7ILQaxmPTgiCJONTLfJDvq2c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 07 Apr 2025 20:44:04 GMT"
+          "Value": "Tue, 08 Apr 2025 14:02:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2465,18 +2465,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-kCDT1641+FxyysVza0buFsQ1pM3T83/Ch6REqc12sOo="
+          "Value": "sha256-36HH47hTfzXX3x9K4aH7ILQaxmPTgiCJONTLfJDvq2c="
         }
       ]
     },
     {
-      "Route": "BlazorPruebas.styles.css",
-      "AssetFile": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\shwqidvi2m-xo956zvuin.gz",
+      "Route": "BlazorPruebas.p84dfzxk9h.bundle.scp.css",
+      "AssetFile": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\fvqdvx19p0-p84dfzxk9h.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000394011032"
+          "Quality": "0.000401606426"
         }
       ],
       "ResponseHeaders": [
@@ -2486,152 +2486,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2537"
+          "Value": "2489"
         },
         {
           "Name": "ETag",
-          "Value": "\"kCDT1641+FxyysVza0buFsQ1pM3T83/Ch6REqc12sOo=\""
+          "Value": "\"36HH47hTfzXX3x9K4aH7ILQaxmPTgiCJONTLfJDvq2c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 07 Apr 2025 20:44:04 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"r51h0u8xyLP2q6T88njJesuECgAydtwM9H8txjq76ZE=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-r51h0u8xyLP2q6T88njJesuECgAydtwM9H8txjq76ZE="
-        }
-      ]
-    },
-    {
-      "Route": "BlazorPruebas.styles.css",
-      "AssetFile": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\scopedcss\\bundle\\BlazorPruebas.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8441"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"r51h0u8xyLP2q6T88njJesuECgAydtwM9H8txjq76ZE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 07 Apr 2025 20:44:04 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-r51h0u8xyLP2q6T88njJesuECgAydtwM9H8txjq76ZE="
-        }
-      ]
-    },
-    {
-      "Route": "BlazorPruebas.styles.css.gz",
-      "AssetFile": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\shwqidvi2m-xo956zvuin.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2537"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"kCDT1641+FxyysVza0buFsQ1pM3T83/Ch6REqc12sOo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 07 Apr 2025 20:44:04 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-kCDT1641+FxyysVza0buFsQ1pM3T83/Ch6REqc12sOo="
-        }
-      ]
-    },
-    {
-      "Route": "BlazorPruebas.xo956zvuin.bundle.scp.css",
-      "AssetFile": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\fvqdvx19p0-xo956zvuin.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000394011032"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2537"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"kCDT1641+FxyysVza0buFsQ1pM3T83/Ch6REqc12sOo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 07 Apr 2025 20:44:04 GMT"
+          "Value": "Tue, 08 Apr 2025 14:02:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2651,13 +2514,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"r51h0u8xyLP2q6T88njJesuECgAydtwM9H8txjq76ZE=\""
+          "Value": "W/\"uUFJrE1enZRE88ZZbvSdpjsVHv81//yWGz5ZF/Ay7xw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xo956zvuin"
+          "Value": "p84dfzxk9h"
         },
         {
           "Name": "label",
@@ -2665,12 +2528,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-r51h0u8xyLP2q6T88njJesuECgAydtwM9H8txjq76ZE="
+          "Value": "sha256-uUFJrE1enZRE88ZZbvSdpjsVHv81//yWGz5ZF/Ay7xw="
         }
       ]
     },
     {
-      "Route": "BlazorPruebas.xo956zvuin.bundle.scp.css",
+      "Route": "BlazorPruebas.p84dfzxk9h.bundle.scp.css",
       "AssetFile": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BlazorPruebas.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2680,7 +2543,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8441"
+          "Value": "8308"
         },
         {
           "Name": "Content-Type",
@@ -2688,11 +2551,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"r51h0u8xyLP2q6T88njJesuECgAydtwM9H8txjq76ZE=\""
+          "Value": "\"uUFJrE1enZRE88ZZbvSdpjsVHv81//yWGz5ZF/Ay7xw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 07 Apr 2025 20:44:04 GMT"
+          "Value": "Tue, 08 Apr 2025 14:02:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2702,7 +2565,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xo956zvuin"
+          "Value": "p84dfzxk9h"
         },
         {
           "Name": "label",
@@ -2710,13 +2573,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-r51h0u8xyLP2q6T88njJesuECgAydtwM9H8txjq76ZE="
+          "Value": "sha256-uUFJrE1enZRE88ZZbvSdpjsVHv81//yWGz5ZF/Ay7xw="
         }
       ]
     },
     {
-      "Route": "BlazorPruebas.xo956zvuin.bundle.scp.css.gz",
-      "AssetFile": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\fvqdvx19p0-xo956zvuin.gz",
+      "Route": "BlazorPruebas.p84dfzxk9h.bundle.scp.css.gz",
+      "AssetFile": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\fvqdvx19p0-p84dfzxk9h.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2725,7 +2588,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2537"
+          "Value": "2489"
         },
         {
           "Name": "Content-Type",
@@ -2733,11 +2596,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kCDT1641+FxyysVza0buFsQ1pM3T83/Ch6REqc12sOo=\""
+          "Value": "\"36HH47hTfzXX3x9K4aH7ILQaxmPTgiCJONTLfJDvq2c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 07 Apr 2025 20:44:04 GMT"
+          "Value": "Tue, 08 Apr 2025 14:02:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2755,7 +2618,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xo956zvuin"
+          "Value": "p84dfzxk9h"
         },
         {
           "Name": "label",
@@ -2763,18 +2626,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-kCDT1641+FxyysVza0buFsQ1pM3T83/Ch6REqc12sOo="
+          "Value": "sha256-36HH47hTfzXX3x9K4aH7ILQaxmPTgiCJONTLfJDvq2c="
         }
       ]
     },
     {
-      "Route": "BlazorPruebas.xo956zvuin.styles.css",
-      "AssetFile": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\shwqidvi2m-xo956zvuin.gz",
+      "Route": "BlazorPruebas.p84dfzxk9h.styles.css",
+      "AssetFile": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\shwqidvi2m-p84dfzxk9h.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000394011032"
+          "Quality": "0.000401606426"
         }
       ],
       "ResponseHeaders": [
@@ -2784,15 +2647,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2537"
+          "Value": "2489"
         },
         {
           "Name": "ETag",
-          "Value": "\"kCDT1641+FxyysVza0buFsQ1pM3T83/Ch6REqc12sOo=\""
+          "Value": "\"36HH47hTfzXX3x9K4aH7ILQaxmPTgiCJONTLfJDvq2c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 07 Apr 2025 20:44:04 GMT"
+          "Value": "Tue, 08 Apr 2025 14:02:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2812,13 +2675,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"r51h0u8xyLP2q6T88njJesuECgAydtwM9H8txjq76ZE=\""
+          "Value": "W/\"uUFJrE1enZRE88ZZbvSdpjsVHv81//yWGz5ZF/Ay7xw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xo956zvuin"
+          "Value": "p84dfzxk9h"
         },
         {
           "Name": "label",
@@ -2826,12 +2689,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-r51h0u8xyLP2q6T88njJesuECgAydtwM9H8txjq76ZE="
+          "Value": "sha256-uUFJrE1enZRE88ZZbvSdpjsVHv81//yWGz5ZF/Ay7xw="
         }
       ]
     },
     {
-      "Route": "BlazorPruebas.xo956zvuin.styles.css",
+      "Route": "BlazorPruebas.p84dfzxk9h.styles.css",
       "AssetFile": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\scopedcss\\bundle\\BlazorPruebas.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2841,7 +2704,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8441"
+          "Value": "8308"
         },
         {
           "Name": "Content-Type",
@@ -2849,11 +2712,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"r51h0u8xyLP2q6T88njJesuECgAydtwM9H8txjq76ZE=\""
+          "Value": "\"uUFJrE1enZRE88ZZbvSdpjsVHv81//yWGz5ZF/Ay7xw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 07 Apr 2025 20:44:04 GMT"
+          "Value": "Tue, 08 Apr 2025 14:02:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2863,7 +2726,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xo956zvuin"
+          "Value": "p84dfzxk9h"
         },
         {
           "Name": "label",
@@ -2871,13 +2734,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-r51h0u8xyLP2q6T88njJesuECgAydtwM9H8txjq76ZE="
+          "Value": "sha256-uUFJrE1enZRE88ZZbvSdpjsVHv81//yWGz5ZF/Ay7xw="
         }
       ]
     },
     {
-      "Route": "BlazorPruebas.xo956zvuin.styles.css.gz",
-      "AssetFile": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\shwqidvi2m-xo956zvuin.gz",
+      "Route": "BlazorPruebas.p84dfzxk9h.styles.css.gz",
+      "AssetFile": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\shwqidvi2m-p84dfzxk9h.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2886,7 +2749,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2537"
+          "Value": "2489"
         },
         {
           "Name": "Content-Type",
@@ -2894,11 +2757,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kCDT1641+FxyysVza0buFsQ1pM3T83/Ch6REqc12sOo=\""
+          "Value": "\"36HH47hTfzXX3x9K4aH7ILQaxmPTgiCJONTLfJDvq2c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 07 Apr 2025 20:44:04 GMT"
+          "Value": "Tue, 08 Apr 2025 14:02:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2916,7 +2779,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xo956zvuin"
+          "Value": "p84dfzxk9h"
         },
         {
           "Name": "label",
@@ -2924,7 +2787,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-kCDT1641+FxyysVza0buFsQ1pM3T83/Ch6REqc12sOo="
+          "Value": "sha256-36HH47hTfzXX3x9K4aH7ILQaxmPTgiCJONTLfJDvq2c="
+        }
+      ]
+    },
+    {
+      "Route": "BlazorPruebas.styles.css",
+      "AssetFile": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\shwqidvi2m-p84dfzxk9h.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000401606426"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2489"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"36HH47hTfzXX3x9K4aH7ILQaxmPTgiCJONTLfJDvq2c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 14:02:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"uUFJrE1enZRE88ZZbvSdpjsVHv81//yWGz5ZF/Ay7xw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uUFJrE1enZRE88ZZbvSdpjsVHv81//yWGz5ZF/Ay7xw="
+        }
+      ]
+    },
+    {
+      "Route": "BlazorPruebas.styles.css",
+      "AssetFile": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\scopedcss\\bundle\\BlazorPruebas.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8308"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uUFJrE1enZRE88ZZbvSdpjsVHv81//yWGz5ZF/Ay7xw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 14:02:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uUFJrE1enZRE88ZZbvSdpjsVHv81//yWGz5ZF/Ay7xw="
+        }
+      ]
+    },
+    {
+      "Route": "BlazorPruebas.styles.css.gz",
+      "AssetFile": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\shwqidvi2m-p84dfzxk9h.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2489"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"36HH47hTfzXX3x9K4aH7ILQaxmPTgiCJONTLfJDvq2c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 14:02:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-36HH47hTfzXX3x9K4aH7ILQaxmPTgiCJONTLfJDvq2c="
         }
       ]
     },

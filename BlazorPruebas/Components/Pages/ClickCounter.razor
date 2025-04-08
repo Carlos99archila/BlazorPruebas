@@ -5,8 +5,18 @@
 
 <PageTitle>Real-time Click Counter</PageTitle>
 
-<h3>Contador de Clicks: @contador</h3>
-<button @onclick="IncrementarContador">¡Haz Click!</button>
+
+
+<h1 class="text-center mb-4">Counter</h1>
+
+<div class="d-flex flex-column align-items-center gap-3">
+    <p role="status" class="fs-4">Current count: <strong>@contador</strong></p>
+
+    <button type="button" class="btn btn-primary btn-lg" @onclick="IncrementarContador">
+        Click me
+    </button>
+</div>
+
 
 @code {
     private int contador;

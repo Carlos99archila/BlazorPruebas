@@ -3,11 +3,53 @@
 
 <PageTitle>Counter</PageTitle>
 
-<h1>Counter</h1>
+<h1 class="title">Counter</h1>
 
-<p role="status">Current count: @currentCount</p>
+<div class="counter-container">
+    <p role="status" class="count-text">Current count: <strong>@currentCount</strong></p>
 
-<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+    <button type="button" class="btn-counter" @onclick="IncrementCount">Click me</button>
+</div>
+
+
+
+<style>
+    .counter-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        margin-top: 2rem;
+    }
+
+    .title {
+        text-align: center;
+        font-size: 2.5rem;
+        margin-bottom: 1rem;
+    }
+
+    .count-text {
+        font-size: 1.5rem;
+        margin-bottom: 1rem;
+    }
+
+    .btn-counter {
+        background-color: #007bff;
+        color: white;
+        padding: 0.6rem 1.2rem;
+        border: none;
+        border-radius: 8px;
+        font-size: 1rem;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+    }
+
+    .btn-counter:hover {
+        background-color: #0056b3;
+    }
+</style>
+
+
 
 @code {
     private int currentCount = 0;
