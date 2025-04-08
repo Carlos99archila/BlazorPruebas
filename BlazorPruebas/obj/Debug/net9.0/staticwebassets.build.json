@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9cyImmB9c/EOb7fWMawnotjW/R6cylO0VC4WKY6Qea8=",
+  "Hash": "p7WvN5OSMUcr9zV1uqA0o0SAVcyew/Dh/FqFMdGixE4=",
   "Source": "BlazorPruebas",
   "BasePath": ".",
   "Mode": "Default",
@@ -16,6 +16,216 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "D:\\Usuarios\\carlos.archila\\.nuget\\packages\\livechartscore.skiasharpview.blazor\\2.0.0-rc5.4\\staticwebassets\\domInterop.js",
+      "SourceId": "LiveChartsCore.SkiaSharpView.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "D:\\Usuarios\\carlos.archila\\.nuget\\packages\\livechartscore.skiasharpview.blazor\\2.0.0-rc5.4\\staticwebassets\\",
+      "BasePath": "_content/LiveChartsCore.SkiaSharpView.Blazor",
+      "RelativePath": "domInterop.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "i504ejmbfm",
+      "Integrity": "xvMCrJVM5x9cNFo7UBTfeH57Iq5oW7M9yvkQmX/3HSw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Usuarios\\carlos.archila\\.nuget\\packages\\livechartscore.skiasharpview.blazor\\2.0.0-rc5.4\\staticwebassets\\domInterop.js"
+    },
+    {
+      "Identity": "D:\\Usuarios\\carlos.archila\\.nuget\\packages\\livechartscore.skiasharpview.blazor\\2.0.0-rc5.4\\staticwebassets\\domInterop.js.map",
+      "SourceId": "LiveChartsCore.SkiaSharpView.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "D:\\Usuarios\\carlos.archila\\.nuget\\packages\\livechartscore.skiasharpview.blazor\\2.0.0-rc5.4\\staticwebassets\\",
+      "BasePath": "_content/LiveChartsCore.SkiaSharpView.Blazor",
+      "RelativePath": "domInterop.js.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qngquw9r7v",
+      "Integrity": "1oTzwvW0XusNAEbR+oW8ogP844FtiQtyOA+aJpJ5kmg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Usuarios\\carlos.archila\\.nuget\\packages\\livechartscore.skiasharpview.blazor\\2.0.0-rc5.4\\staticwebassets\\domInterop.js.map"
+    },
+    {
+      "Identity": "D:\\Usuarios\\carlos.archila\\.nuget\\packages\\livechartscore.skiasharpview.blazor\\2.0.0-rc5.4\\staticwebassets\\domInterop.ts",
+      "SourceId": "LiveChartsCore.SkiaSharpView.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "D:\\Usuarios\\carlos.archila\\.nuget\\packages\\livechartscore.skiasharpview.blazor\\2.0.0-rc5.4\\staticwebassets\\",
+      "BasePath": "_content/LiveChartsCore.SkiaSharpView.Blazor",
+      "RelativePath": "domInterop.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "povrd098dy",
+      "Integrity": "12lAm8Dw9VDqAId5lWqZUCBSkpMzEtUmKx66dfS/W/A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Usuarios\\carlos.archila\\.nuget\\packages\\livechartscore.skiasharpview.blazor\\2.0.0-rc5.4\\staticwebassets\\domInterop.ts"
+    },
+    {
+      "Identity": "D:\\Usuarios\\carlos.archila\\.nuget\\packages\\livechartscore.skiasharpview.blazor\\2.0.0-rc5.4\\staticwebassets\\LiveChartsCore.SkiaSharpView.Blazor.h6pgu9i50m.bundle.scp.css",
+      "SourceId": "LiveChartsCore.SkiaSharpView.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "D:\\Usuarios\\carlos.archila\\.nuget\\packages\\livechartscore.skiasharpview.blazor\\2.0.0-rc5.4\\staticwebassets\\",
+      "BasePath": "_content/LiveChartsCore.SkiaSharpView.Blazor",
+      "RelativePath": "LiveChartsCore.SkiaSharpView.Blazor.h6pgu9i50m.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "h6pgu9i50m",
+      "Integrity": "hxrFN36+lkubAGqclGNYPpUk+PqK8JlQcq49OUy4obk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Usuarios\\carlos.archila\\.nuget\\packages\\livechartscore.skiasharpview.blazor\\2.0.0-rc5.4\\staticwebassets\\LiveChartsCore.SkiaSharpView.Blazor.h6pgu9i50m.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\Usuarios\\carlos.archila\\.nuget\\packages\\skiasharp.views.blazor\\3.116.1\\staticwebassets\\DpiWatcher.js",
+      "SourceId": "SkiaSharp.Views.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "D:\\Usuarios\\carlos.archila\\.nuget\\packages\\skiasharp.views.blazor\\3.116.1\\staticwebassets\\",
+      "BasePath": "_content/SkiaSharp.Views.Blazor",
+      "RelativePath": "DpiWatcher.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "etlkpx4lxp",
+      "Integrity": "jvdEwbPP9ySWwm0cTSiOqdIfO15rtDmoxKmiqmFQR/A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Usuarios\\carlos.archila\\.nuget\\packages\\skiasharp.views.blazor\\3.116.1\\staticwebassets\\DpiWatcher.js"
+    },
+    {
+      "Identity": "D:\\Usuarios\\carlos.archila\\.nuget\\packages\\skiasharp.views.blazor\\3.116.1\\staticwebassets\\DpiWatcher.js.map",
+      "SourceId": "SkiaSharp.Views.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "D:\\Usuarios\\carlos.archila\\.nuget\\packages\\skiasharp.views.blazor\\3.116.1\\staticwebassets\\",
+      "BasePath": "_content/SkiaSharp.Views.Blazor",
+      "RelativePath": "DpiWatcher.js.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zunsvndtiu",
+      "Integrity": "y7L+XtwoUJtcUnvXGeRLVrLj2uLMTgPyNKJlEJnFbpc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Usuarios\\carlos.archila\\.nuget\\packages\\skiasharp.views.blazor\\3.116.1\\staticwebassets\\DpiWatcher.js.map"
+    },
+    {
+      "Identity": "D:\\Usuarios\\carlos.archila\\.nuget\\packages\\skiasharp.views.blazor\\3.116.1\\staticwebassets\\SizeWatcher.js",
+      "SourceId": "SkiaSharp.Views.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "D:\\Usuarios\\carlos.archila\\.nuget\\packages\\skiasharp.views.blazor\\3.116.1\\staticwebassets\\",
+      "BasePath": "_content/SkiaSharp.Views.Blazor",
+      "RelativePath": "SizeWatcher.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f7ihrsj3bb",
+      "Integrity": "la7lyIF2RfLmzbgQq451BnkJEU/wykMPE6pCn8Po4pI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Usuarios\\carlos.archila\\.nuget\\packages\\skiasharp.views.blazor\\3.116.1\\staticwebassets\\SizeWatcher.js"
+    },
+    {
+      "Identity": "D:\\Usuarios\\carlos.archila\\.nuget\\packages\\skiasharp.views.blazor\\3.116.1\\staticwebassets\\SizeWatcher.js.map",
+      "SourceId": "SkiaSharp.Views.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "D:\\Usuarios\\carlos.archila\\.nuget\\packages\\skiasharp.views.blazor\\3.116.1\\staticwebassets\\",
+      "BasePath": "_content/SkiaSharp.Views.Blazor",
+      "RelativePath": "SizeWatcher.js.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1fk33y95qa",
+      "Integrity": "HQWKRYNJ6U0CQ6cjuHiZNYzn9EyBxinvWwT2zctFdWE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Usuarios\\carlos.archila\\.nuget\\packages\\skiasharp.views.blazor\\3.116.1\\staticwebassets\\SizeWatcher.js.map"
+    },
+    {
+      "Identity": "D:\\Usuarios\\carlos.archila\\.nuget\\packages\\skiasharp.views.blazor\\3.116.1\\staticwebassets\\SKHtmlCanvas.js",
+      "SourceId": "SkiaSharp.Views.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "D:\\Usuarios\\carlos.archila\\.nuget\\packages\\skiasharp.views.blazor\\3.116.1\\staticwebassets\\",
+      "BasePath": "_content/SkiaSharp.Views.Blazor",
+      "RelativePath": "SKHtmlCanvas.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kcqxblcsb9",
+      "Integrity": "pCIEjwDATOwa31+YvucoW1WTxT4YiQVDFhw94hu6wx8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Usuarios\\carlos.archila\\.nuget\\packages\\skiasharp.views.blazor\\3.116.1\\staticwebassets\\SKHtmlCanvas.js"
+    },
+    {
+      "Identity": "D:\\Usuarios\\carlos.archila\\.nuget\\packages\\skiasharp.views.blazor\\3.116.1\\staticwebassets\\SKHtmlCanvas.js.map",
+      "SourceId": "SkiaSharp.Views.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "D:\\Usuarios\\carlos.archila\\.nuget\\packages\\skiasharp.views.blazor\\3.116.1\\staticwebassets\\",
+      "BasePath": "_content/SkiaSharp.Views.Blazor",
+      "RelativePath": "SKHtmlCanvas.js.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "z305cnf0uw",
+      "Integrity": "MTgEQwaemErPPoFSvy9/AvhoR7QaOAVkSgXh+Gs5jmY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Usuarios\\carlos.archila\\.nuget\\packages\\skiasharp.views.blazor\\3.116.1\\staticwebassets\\SKHtmlCanvas.js.map"
+    },
     {
       "Identity": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\0m3e9d10q9-b7pk76d08c.gz",
       "SourceId": "BlazorPruebas",
@@ -311,6 +521,27 @@
       "OriginalItemSpec": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
+      "Identity": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\9qpkv3grdq-qngquw9r7v.gz",
+      "SourceId": "LiveChartsCore.SkiaSharpView.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/LiveChartsCore.SkiaSharpView.Blazor",
+      "RelativePath": "domInterop.js.map.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Usuarios\\carlos.archila\\.nuget\\packages\\livechartscore.skiasharpview.blazor\\2.0.0-rc5.4\\staticwebassets\\domInterop.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "0ps8jcenri",
+      "Integrity": "RIY6InsDi3BbpL9XLeAwfq7SXqLqGKpbgMjasWgF0Q0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Usuarios\\carlos.archila\\.nuget\\packages\\livechartscore.skiasharpview.blazor\\2.0.0-rc5.4\\staticwebassets\\domInterop.js.map"
+    },
+    {
       "Identity": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\9wm9te359r-ub07r2b239.gz",
       "SourceId": "BlazorPruebas",
       "SourceType": "Discovered",
@@ -416,6 +647,27 @@
       "OriginalItemSpec": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
+      "Identity": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\bplelio17e-h6pgu9i50m.gz",
+      "SourceId": "LiveChartsCore.SkiaSharpView.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/LiveChartsCore.SkiaSharpView.Blazor",
+      "RelativePath": "LiveChartsCore.SkiaSharpView.Blazor.h6pgu9i50m.bundle.scp.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Usuarios\\carlos.archila\\.nuget\\packages\\livechartscore.skiasharpview.blazor\\2.0.0-rc5.4\\staticwebassets\\LiveChartsCore.SkiaSharpView.Blazor.h6pgu9i50m.bundle.scp.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "w2ohyrs6wj",
+      "Integrity": "2H1lcDBtxea+sGyj7Y3WYeVCxoCtc4k8hPNQG0Yi7Jc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Usuarios\\carlos.archila\\.nuget\\packages\\livechartscore.skiasharpview.blazor\\2.0.0-rc5.4\\staticwebassets\\LiveChartsCore.SkiaSharpView.Blazor.h6pgu9i50m.bundle.scp.css"
+    },
+    {
       "Identity": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\ctxoqt3e1h-bqjiyaj88i.gz",
       "SourceId": "BlazorPruebas",
       "SourceType": "Discovered",
@@ -435,6 +687,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Identity": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\cuz866ltsq-etlkpx4lxp.gz",
+      "SourceId": "SkiaSharp.Views.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/SkiaSharp.Views.Blazor",
+      "RelativePath": "DpiWatcher.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Usuarios\\carlos.archila\\.nuget\\packages\\skiasharp.views.blazor\\3.116.1\\staticwebassets\\DpiWatcher.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "axu83zq5n1",
+      "Integrity": "coLOfE0L8yanqgxFbqrnS9IUyzbxEHg9bTb7hYbhGkU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Usuarios\\carlos.archila\\.nuget\\packages\\skiasharp.views.blazor\\3.116.1\\staticwebassets\\DpiWatcher.js"
     },
     {
       "Identity": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\egcf4te7on-c2jlpeoesf.gz",
@@ -647,6 +920,27 @@
       "OriginalItemSpec": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
+      "Identity": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\l626ovt2mm-kcqxblcsb9.gz",
+      "SourceId": "SkiaSharp.Views.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/SkiaSharp.Views.Blazor",
+      "RelativePath": "SKHtmlCanvas.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Usuarios\\carlos.archila\\.nuget\\packages\\skiasharp.views.blazor\\3.116.1\\staticwebassets\\SKHtmlCanvas.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "n9que77wdz",
+      "Integrity": "e5qxH4v5r4UnRqjprdazt3DFGfPer34rhS2lZ/E3S2g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Usuarios\\carlos.archila\\.nuget\\packages\\skiasharp.views.blazor\\3.116.1\\staticwebassets\\SKHtmlCanvas.js"
+    },
+    {
       "Identity": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\llw7vvqhjv-ee0r1s7dh0.gz",
       "SourceId": "BlazorPruebas",
       "SourceType": "Discovered",
@@ -708,6 +1002,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Identity": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\mwy15b7rld-zunsvndtiu.gz",
+      "SourceId": "SkiaSharp.Views.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/SkiaSharp.Views.Blazor",
+      "RelativePath": "DpiWatcher.js.map.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Usuarios\\carlos.archila\\.nuget\\packages\\skiasharp.views.blazor\\3.116.1\\staticwebassets\\DpiWatcher.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "dbn46wlpy3",
+      "Integrity": "CSVA5UJnUx4342oeZs+ddtACfodHV0BrSuswER5PW+E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Usuarios\\carlos.archila\\.nuget\\packages\\skiasharp.views.blazor\\3.116.1\\staticwebassets\\DpiWatcher.js.map"
+    },
+    {
+      "Identity": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\my9dyuumrs-i504ejmbfm.gz",
+      "SourceId": "LiveChartsCore.SkiaSharpView.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/LiveChartsCore.SkiaSharpView.Blazor",
+      "RelativePath": "domInterop.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Usuarios\\carlos.archila\\.nuget\\packages\\livechartscore.skiasharpview.blazor\\2.0.0-rc5.4\\staticwebassets\\domInterop.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "1t2prjrjj6",
+      "Integrity": "i44PEEYWnM7C7HvkMsZR889YJQCyEyr5wsP6H5GYSy8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Usuarios\\carlos.archila\\.nuget\\packages\\livechartscore.skiasharpview.blazor\\2.0.0-rc5.4\\staticwebassets\\domInterop.js"
     },
     {
       "Identity": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\o5cvy4hqs0-37tfw0ft22.gz",
@@ -773,6 +1109,48 @@
       "OriginalItemSpec": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
+      "Identity": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\p5gtxtyijb-z305cnf0uw.gz",
+      "SourceId": "SkiaSharp.Views.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/SkiaSharp.Views.Blazor",
+      "RelativePath": "SKHtmlCanvas.js.map.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Usuarios\\carlos.archila\\.nuget\\packages\\skiasharp.views.blazor\\3.116.1\\staticwebassets\\SKHtmlCanvas.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "vahhfdns6f",
+      "Integrity": "16RC9ohaw+IipUWZVDHavcpGC9UFiRn88nS3mrvE7ho=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Usuarios\\carlos.archila\\.nuget\\packages\\skiasharp.views.blazor\\3.116.1\\staticwebassets\\SKHtmlCanvas.js.map"
+    },
+    {
+      "Identity": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\pvibyho98s-f7ihrsj3bb.gz",
+      "SourceId": "SkiaSharp.Views.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/SkiaSharp.Views.Blazor",
+      "RelativePath": "SizeWatcher.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Usuarios\\carlos.archila\\.nuget\\packages\\skiasharp.views.blazor\\3.116.1\\staticwebassets\\SizeWatcher.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "8yqdmwaoce",
+      "Integrity": "UECtnFkwtaf05RoS+gfTPe2uAJQpXNT2x1aE8nfhxPU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Usuarios\\carlos.archila\\.nuget\\packages\\skiasharp.views.blazor\\3.116.1\\staticwebassets\\SizeWatcher.js"
+    },
+    {
       "Identity": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\qisvhnkrxf-erw9l3u2r3.gz",
       "SourceId": "BlazorPruebas",
       "SourceType": "Discovered",
@@ -836,12 +1214,12 @@
       "OriginalItemSpec": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\shwqidvi2m-p84dfzxk9h.gz",
+      "Identity": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\shwqidvi2m-igxo94s72r.gz",
       "SourceId": "BlazorPruebas",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": ".",
-      "RelativePath": "BlazorPruebas#[.{fingerprint=p84dfzxk9h}]?.styles.css.gz",
+      "RelativePath": "BlazorPruebas#[.{fingerprint=igxo94s72r}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -850,11 +1228,32 @@
       "RelatedAsset": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\scopedcss\\bundle\\BlazorPruebas.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "5rh5te83dm",
-      "Integrity": "36HH47hTfzXX3x9K4aH7ILQaxmPTgiCJONTLfJDvq2c=",
+      "Fingerprint": "s3sn7axd8v",
+      "Integrity": "CA3dXsyreyoojKKJ30uny+7K06Nokyz+MYBB3OAqnJ8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\scopedcss\\bundle\\BlazorPruebas.styles.css"
+    },
+    {
+      "Identity": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\tp7lthi7ky-1fk33y95qa.gz",
+      "SourceId": "SkiaSharp.Views.Blazor",
+      "SourceType": "Package",
+      "ContentRoot": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/SkiaSharp.Views.Blazor",
+      "RelativePath": "SizeWatcher.js.map.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Usuarios\\carlos.archila\\.nuget\\packages\\skiasharp.views.blazor\\3.116.1\\staticwebassets\\SizeWatcher.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "4m076wfkcj",
+      "Integrity": "JMvV3vNCMULP5rNci2bygwlLvE/JVotVYbf/90e5Tuo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Usuarios\\carlos.archila\\.nuget\\packages\\skiasharp.views.blazor\\3.116.1\\staticwebassets\\SizeWatcher.js.map"
     },
     {
       "Identity": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\tshsy51j71-c2oey78nd0.gz",
@@ -1018,8 +1417,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "p84dfzxk9h",
-      "Integrity": "uUFJrE1enZRE88ZZbvSdpjsVHv81//yWGz5ZF/Ay7xw=",
+      "Fingerprint": "igxo94s72r",
+      "Integrity": "noeV+9Gfe5DjzKhYKCTJUSs9mfhYXIwfpg3wXQf+izQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\scopedcss\\bundle\\BlazorPruebas.styles.css"
@@ -2035,6 +2434,1456 @@
   ],
   "Endpoints": [
     {
+      "Route": "_content/LiveChartsCore.SkiaSharpView.Blazor/domInterop.i504ejmbfm.js",
+      "AssetFile": "D:\\Usuarios\\carlos.archila\\.nuget\\packages\\livechartscore.skiasharpview.blazor\\2.0.0-rc5.4\\staticwebassets\\domInterop.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1068"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xvMCrJVM5x9cNFo7UBTfeH57Iq5oW7M9yvkQmX/3HSw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Feb 2025 19:42:23 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i504ejmbfm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xvMCrJVM5x9cNFo7UBTfeH57Iq5oW7M9yvkQmX/3HSw="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/LiveChartsCore.SkiaSharpView.Blazor/domInterop.js"
+        }
+      ]
+    },
+    {
+      "Route": "_content/LiveChartsCore.SkiaSharpView.Blazor/domInterop.js",
+      "AssetFile": "D:\\Usuarios\\carlos.archila\\.nuget\\packages\\livechartscore.skiasharpview.blazor\\2.0.0-rc5.4\\staticwebassets\\domInterop.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1068"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xvMCrJVM5x9cNFo7UBTfeH57Iq5oW7M9yvkQmX/3HSw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Feb 2025 19:42:23 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xvMCrJVM5x9cNFo7UBTfeH57Iq5oW7M9yvkQmX/3HSw="
+        }
+      ]
+    },
+    {
+      "Route": "_content/LiveChartsCore.SkiaSharpView.Blazor/domInterop.js",
+      "AssetFile": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\my9dyuumrs-i504ejmbfm.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002380952381"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "419"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i44PEEYWnM7C7HvkMsZR889YJQCyEyr5wsP6H5GYSy8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Feb 2025 19:42:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"xvMCrJVM5x9cNFo7UBTfeH57Iq5oW7M9yvkQmX/3HSw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xvMCrJVM5x9cNFo7UBTfeH57Iq5oW7M9yvkQmX/3HSw="
+        }
+      ]
+    },
+    {
+      "Route": "_content/LiveChartsCore.SkiaSharpView.Blazor/domInterop.js.gz",
+      "AssetFile": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\my9dyuumrs-i504ejmbfm.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "419"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i44PEEYWnM7C7HvkMsZR889YJQCyEyr5wsP6H5GYSy8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Feb 2025 19:42:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-i44PEEYWnM7C7HvkMsZR889YJQCyEyr5wsP6H5GYSy8="
+        }
+      ]
+    },
+    {
+      "Route": "_content/LiveChartsCore.SkiaSharpView.Blazor/domInterop.js.map",
+      "AssetFile": "D:\\Usuarios\\carlos.archila\\.nuget\\packages\\livechartscore.skiasharpview.blazor\\2.0.0-rc5.4\\staticwebassets\\domInterop.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1021"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1oTzwvW0XusNAEbR+oW8ogP844FtiQtyOA+aJpJ5kmg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Feb 2025 19:42:23 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1oTzwvW0XusNAEbR+oW8ogP844FtiQtyOA+aJpJ5kmg="
+        }
+      ]
+    },
+    {
+      "Route": "_content/LiveChartsCore.SkiaSharpView.Blazor/domInterop.js.map",
+      "AssetFile": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\9qpkv3grdq-qngquw9r7v.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002320185615"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "430"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RIY6InsDi3BbpL9XLeAwfq7SXqLqGKpbgMjasWgF0Q0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Feb 2025 19:42:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"1oTzwvW0XusNAEbR+oW8ogP844FtiQtyOA+aJpJ5kmg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1oTzwvW0XusNAEbR+oW8ogP844FtiQtyOA+aJpJ5kmg="
+        }
+      ]
+    },
+    {
+      "Route": "_content/LiveChartsCore.SkiaSharpView.Blazor/domInterop.js.map.gz",
+      "AssetFile": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\9qpkv3grdq-qngquw9r7v.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "430"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RIY6InsDi3BbpL9XLeAwfq7SXqLqGKpbgMjasWgF0Q0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Feb 2025 19:42:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RIY6InsDi3BbpL9XLeAwfq7SXqLqGKpbgMjasWgF0Q0="
+        }
+      ]
+    },
+    {
+      "Route": "_content/LiveChartsCore.SkiaSharpView.Blazor/domInterop.js.qngquw9r7v.map",
+      "AssetFile": "D:\\Usuarios\\carlos.archila\\.nuget\\packages\\livechartscore.skiasharpview.blazor\\2.0.0-rc5.4\\staticwebassets\\domInterop.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1021"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1oTzwvW0XusNAEbR+oW8ogP844FtiQtyOA+aJpJ5kmg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Feb 2025 19:42:23 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qngquw9r7v"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1oTzwvW0XusNAEbR+oW8ogP844FtiQtyOA+aJpJ5kmg="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/LiveChartsCore.SkiaSharpView.Blazor/domInterop.js.map"
+        }
+      ]
+    },
+    {
+      "Route": "_content/LiveChartsCore.SkiaSharpView.Blazor/domInterop.povrd098dy.ts",
+      "AssetFile": "D:\\Usuarios\\carlos.archila\\.nuget\\packages\\livechartscore.skiasharpview.blazor\\2.0.0-rc5.4\\staticwebassets\\domInterop.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1121"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"12lAm8Dw9VDqAId5lWqZUCBSkpMzEtUmKx66dfS/W/A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 May 2024 17:57:34 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "povrd098dy"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-12lAm8Dw9VDqAId5lWqZUCBSkpMzEtUmKx66dfS/W/A="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/LiveChartsCore.SkiaSharpView.Blazor/domInterop.ts"
+        }
+      ]
+    },
+    {
+      "Route": "_content/LiveChartsCore.SkiaSharpView.Blazor/domInterop.ts",
+      "AssetFile": "D:\\Usuarios\\carlos.archila\\.nuget\\packages\\livechartscore.skiasharpview.blazor\\2.0.0-rc5.4\\staticwebassets\\domInterop.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1121"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"12lAm8Dw9VDqAId5lWqZUCBSkpMzEtUmKx66dfS/W/A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 08 May 2024 17:57:34 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-12lAm8Dw9VDqAId5lWqZUCBSkpMzEtUmKx66dfS/W/A="
+        }
+      ]
+    },
+    {
+      "Route": "_content/LiveChartsCore.SkiaSharpView.Blazor/LiveChartsCore.SkiaSharpView.Blazor.bundle.scp.css",
+      "AssetFile": "D:\\Usuarios\\carlos.archila\\.nuget\\packages\\livechartscore.skiasharpview.blazor\\2.0.0-rc5.4\\staticwebassets\\LiveChartsCore.SkiaSharpView.Blazor.h6pgu9i50m.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5963"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hxrFN36+lkubAGqclGNYPpUk+PqK8JlQcq49OUy4obk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Sep 2024 22:43:07 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hxrFN36+lkubAGqclGNYPpUk+PqK8JlQcq49OUy4obk="
+        }
+      ]
+    },
+    {
+      "Route": "_content/LiveChartsCore.SkiaSharpView.Blazor/LiveChartsCore.SkiaSharpView.Blazor.bundle.scp.css",
+      "AssetFile": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\bplelio17e-h6pgu9i50m.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001104972376"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "904"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2H1lcDBtxea+sGyj7Y3WYeVCxoCtc4k8hPNQG0Yi7Jc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Sep 2024 22:43:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"hxrFN36+lkubAGqclGNYPpUk+PqK8JlQcq49OUy4obk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hxrFN36+lkubAGqclGNYPpUk+PqK8JlQcq49OUy4obk="
+        }
+      ]
+    },
+    {
+      "Route": "_content/LiveChartsCore.SkiaSharpView.Blazor/LiveChartsCore.SkiaSharpView.Blazor.h6pgu9i50m.bundle.scp.css",
+      "AssetFile": "D:\\Usuarios\\carlos.archila\\.nuget\\packages\\livechartscore.skiasharpview.blazor\\2.0.0-rc5.4\\staticwebassets\\LiveChartsCore.SkiaSharpView.Blazor.h6pgu9i50m.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5963"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hxrFN36+lkubAGqclGNYPpUk+PqK8JlQcq49OUy4obk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Sep 2024 22:43:07 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h6pgu9i50m"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hxrFN36+lkubAGqclGNYPpUk+PqK8JlQcq49OUy4obk="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/LiveChartsCore.SkiaSharpView.Blazor/LiveChartsCore.SkiaSharpView.Blazor.bundle.scp.css"
+        }
+      ]
+    },
+    {
+      "Route": "_content/LiveChartsCore.SkiaSharpView.Blazor/LiveChartsCore.SkiaSharpView.Blazor.h6pgu9i50m.bundle.scp.css.gz",
+      "AssetFile": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\bplelio17e-h6pgu9i50m.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "904"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2H1lcDBtxea+sGyj7Y3WYeVCxoCtc4k8hPNQG0Yi7Jc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 16 Sep 2024 22:43:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2H1lcDBtxea+sGyj7Y3WYeVCxoCtc4k8hPNQG0Yi7Jc="
+        }
+      ]
+    },
+    {
+      "Route": "_content/SkiaSharp.Views.Blazor/DpiWatcher.js",
+      "AssetFile": "D:\\Usuarios\\carlos.archila\\.nuget\\packages\\skiasharp.views.blazor\\3.116.1\\staticwebassets\\DpiWatcher.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1192"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jvdEwbPP9ySWwm0cTSiOqdIfO15rtDmoxKmiqmFQR/A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 21:16:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jvdEwbPP9ySWwm0cTSiOqdIfO15rtDmoxKmiqmFQR/A="
+        }
+      ]
+    },
+    {
+      "Route": "_content/SkiaSharp.Views.Blazor/DpiWatcher.js",
+      "AssetFile": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\cuz866ltsq-etlkpx4lxp.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002481389578"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "402"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"coLOfE0L8yanqgxFbqrnS9IUyzbxEHg9bTb7hYbhGkU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 21:16:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"jvdEwbPP9ySWwm0cTSiOqdIfO15rtDmoxKmiqmFQR/A=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jvdEwbPP9ySWwm0cTSiOqdIfO15rtDmoxKmiqmFQR/A="
+        }
+      ]
+    },
+    {
+      "Route": "_content/SkiaSharp.Views.Blazor/DpiWatcher.js.gz",
+      "AssetFile": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\cuz866ltsq-etlkpx4lxp.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "402"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"coLOfE0L8yanqgxFbqrnS9IUyzbxEHg9bTb7hYbhGkU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 21:16:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-coLOfE0L8yanqgxFbqrnS9IUyzbxEHg9bTb7hYbhGkU="
+        }
+      ]
+    },
+    {
+      "Route": "_content/SkiaSharp.Views.Blazor/DpiWatcher.js.map",
+      "AssetFile": "D:\\Usuarios\\carlos.archila\\.nuget\\packages\\skiasharp.views.blazor\\3.116.1\\staticwebassets\\DpiWatcher.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1053"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y7L+XtwoUJtcUnvXGeRLVrLj2uLMTgPyNKJlEJnFbpc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 21:16:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-y7L+XtwoUJtcUnvXGeRLVrLj2uLMTgPyNKJlEJnFbpc="
+        }
+      ]
+    },
+    {
+      "Route": "_content/SkiaSharp.Views.Blazor/DpiWatcher.js.map",
+      "AssetFile": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\mwy15b7rld-zunsvndtiu.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002610966057"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "382"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CSVA5UJnUx4342oeZs+ddtACfodHV0BrSuswER5PW+E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 21:16:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"y7L+XtwoUJtcUnvXGeRLVrLj2uLMTgPyNKJlEJnFbpc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-y7L+XtwoUJtcUnvXGeRLVrLj2uLMTgPyNKJlEJnFbpc="
+        }
+      ]
+    },
+    {
+      "Route": "_content/SkiaSharp.Views.Blazor/DpiWatcher.js.map.gz",
+      "AssetFile": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\mwy15b7rld-zunsvndtiu.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "382"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CSVA5UJnUx4342oeZs+ddtACfodHV0BrSuswER5PW+E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 21:16:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CSVA5UJnUx4342oeZs+ddtACfodHV0BrSuswER5PW+E="
+        }
+      ]
+    },
+    {
+      "Route": "_content/SkiaSharp.Views.Blazor/SizeWatcher.js",
+      "AssetFile": "D:\\Usuarios\\carlos.archila\\.nuget\\packages\\skiasharp.views.blazor\\3.116.1\\staticwebassets\\SizeWatcher.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1808"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"la7lyIF2RfLmzbgQq451BnkJEU/wykMPE6pCn8Po4pI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 21:16:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-la7lyIF2RfLmzbgQq451BnkJEU/wykMPE6pCn8Po4pI="
+        }
+      ]
+    },
+    {
+      "Route": "_content/SkiaSharp.Views.Blazor/SizeWatcher.js",
+      "AssetFile": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\pvibyho98s-f7ihrsj3bb.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001818181818"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "549"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UECtnFkwtaf05RoS+gfTPe2uAJQpXNT2x1aE8nfhxPU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 21:16:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"la7lyIF2RfLmzbgQq451BnkJEU/wykMPE6pCn8Po4pI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-la7lyIF2RfLmzbgQq451BnkJEU/wykMPE6pCn8Po4pI="
+        }
+      ]
+    },
+    {
+      "Route": "_content/SkiaSharp.Views.Blazor/SizeWatcher.js.gz",
+      "AssetFile": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\pvibyho98s-f7ihrsj3bb.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "549"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UECtnFkwtaf05RoS+gfTPe2uAJQpXNT2x1aE8nfhxPU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 21:16:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UECtnFkwtaf05RoS+gfTPe2uAJQpXNT2x1aE8nfhxPU="
+        }
+      ]
+    },
+    {
+      "Route": "_content/SkiaSharp.Views.Blazor/SizeWatcher.js.map",
+      "AssetFile": "D:\\Usuarios\\carlos.archila\\.nuget\\packages\\skiasharp.views.blazor\\3.116.1\\staticwebassets\\SizeWatcher.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1652"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HQWKRYNJ6U0CQ6cjuHiZNYzn9EyBxinvWwT2zctFdWE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 21:16:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HQWKRYNJ6U0CQ6cjuHiZNYzn9EyBxinvWwT2zctFdWE="
+        }
+      ]
+    },
+    {
+      "Route": "_content/SkiaSharp.Views.Blazor/SizeWatcher.js.map",
+      "AssetFile": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\tp7lthi7ky-1fk33y95qa.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001904761905"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "524"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JMvV3vNCMULP5rNci2bygwlLvE/JVotVYbf/90e5Tuo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 21:16:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"HQWKRYNJ6U0CQ6cjuHiZNYzn9EyBxinvWwT2zctFdWE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HQWKRYNJ6U0CQ6cjuHiZNYzn9EyBxinvWwT2zctFdWE="
+        }
+      ]
+    },
+    {
+      "Route": "_content/SkiaSharp.Views.Blazor/SizeWatcher.js.map.gz",
+      "AssetFile": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\tp7lthi7ky-1fk33y95qa.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "524"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JMvV3vNCMULP5rNci2bygwlLvE/JVotVYbf/90e5Tuo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 21:16:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JMvV3vNCMULP5rNci2bygwlLvE/JVotVYbf/90e5Tuo="
+        }
+      ]
+    },
+    {
+      "Route": "_content/SkiaSharp.Views.Blazor/SKHtmlCanvas.js",
+      "AssetFile": "D:\\Usuarios\\carlos.archila\\.nuget\\packages\\skiasharp.views.blazor\\3.116.1\\staticwebassets\\SKHtmlCanvas.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7131"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pCIEjwDATOwa31+YvucoW1WTxT4YiQVDFhw94hu6wx8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 21:16:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pCIEjwDATOwa31+YvucoW1WTxT4YiQVDFhw94hu6wx8="
+        }
+      ]
+    },
+    {
+      "Route": "_content/SkiaSharp.Views.Blazor/SKHtmlCanvas.js",
+      "AssetFile": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\l626ovt2mm-kcqxblcsb9.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000570776256"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1751"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e5qxH4v5r4UnRqjprdazt3DFGfPer34rhS2lZ/E3S2g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 21:16:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"pCIEjwDATOwa31+YvucoW1WTxT4YiQVDFhw94hu6wx8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pCIEjwDATOwa31+YvucoW1WTxT4YiQVDFhw94hu6wx8="
+        }
+      ]
+    },
+    {
+      "Route": "_content/SkiaSharp.Views.Blazor/SKHtmlCanvas.js.gz",
+      "AssetFile": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\l626ovt2mm-kcqxblcsb9.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1751"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e5qxH4v5r4UnRqjprdazt3DFGfPer34rhS2lZ/E3S2g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 21:16:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-e5qxH4v5r4UnRqjprdazt3DFGfPer34rhS2lZ/E3S2g="
+        }
+      ]
+    },
+    {
+      "Route": "_content/SkiaSharp.Views.Blazor/SKHtmlCanvas.js.map",
+      "AssetFile": "D:\\Usuarios\\carlos.archila\\.nuget\\packages\\skiasharp.views.blazor\\3.116.1\\staticwebassets\\SKHtmlCanvas.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6297"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MTgEQwaemErPPoFSvy9/AvhoR7QaOAVkSgXh+Gs5jmY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 21:16:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MTgEQwaemErPPoFSvy9/AvhoR7QaOAVkSgXh+Gs5jmY="
+        }
+      ]
+    },
+    {
+      "Route": "_content/SkiaSharp.Views.Blazor/SKHtmlCanvas.js.map",
+      "AssetFile": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\p5gtxtyijb-z305cnf0uw.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000704225352"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1419"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"16RC9ohaw+IipUWZVDHavcpGC9UFiRn88nS3mrvE7ho=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 21:16:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"MTgEQwaemErPPoFSvy9/AvhoR7QaOAVkSgXh+Gs5jmY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MTgEQwaemErPPoFSvy9/AvhoR7QaOAVkSgXh+Gs5jmY="
+        }
+      ]
+    },
+    {
+      "Route": "_content/SkiaSharp.Views.Blazor/SKHtmlCanvas.js.map.gz",
+      "AssetFile": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\p5gtxtyijb-z305cnf0uw.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1419"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"16RC9ohaw+IipUWZVDHavcpGC9UFiRn88nS3mrvE7ho=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Dec 2024 21:16:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-16RC9ohaw+IipUWZVDHavcpGC9UFiRn88nS3mrvE7ho="
+        }
+      ]
+    },
+    {
       "Route": "app.css",
       "AssetFile": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\5tap4wh2v7-khy4lop6wu.gz",
       "Selectors": [
@@ -2357,7 +4206,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 08 Apr 2025 14:02:07 GMT"
+          "Value": "Tue, 08 Apr 2025 17:08:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2410,7 +4259,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 08 Apr 2025 14:02:07 GMT"
+          "Value": "Tue, 08 Apr 2025 17:08:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2447,7 +4296,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 08 Apr 2025 14:02:07 GMT"
+          "Value": "Tue, 08 Apr 2025 17:08:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2466,6 +4315,175 @@
         {
           "Name": "integrity",
           "Value": "sha256-36HH47hTfzXX3x9K4aH7ILQaxmPTgiCJONTLfJDvq2c="
+        }
+      ]
+    },
+    {
+      "Route": "BlazorPruebas.igxo94s72r.styles.css",
+      "AssetFile": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\shwqidvi2m-igxo94s72r.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000392464678"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2547"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CA3dXsyreyoojKKJ30uny+7K06Nokyz+MYBB3OAqnJ8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 17:08:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"noeV+9Gfe5DjzKhYKCTJUSs9mfhYXIwfpg3wXQf+izQ=\""
+        },
+        {
+          "Name": "Link",
+          "Value": "<_content/LiveChartsCore.SkiaSharpView.Blazor/LiveChartsCore.SkiaSharpView.Blazor.h6pgu9i50m.bundle.scp.css>; rel=\"preload\"; as=\"style\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "igxo94s72r"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-noeV+9Gfe5DjzKhYKCTJUSs9mfhYXIwfpg3wXQf+izQ="
+        },
+        {
+          "Name": "label",
+          "Value": "BlazorPruebas.styles.css"
+        }
+      ]
+    },
+    {
+      "Route": "BlazorPruebas.igxo94s72r.styles.css",
+      "AssetFile": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\scopedcss\\bundle\\BlazorPruebas.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8432"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"noeV+9Gfe5DjzKhYKCTJUSs9mfhYXIwfpg3wXQf+izQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 17:08:27 GMT"
+        },
+        {
+          "Name": "Link",
+          "Value": "<_content/LiveChartsCore.SkiaSharpView.Blazor/LiveChartsCore.SkiaSharpView.Blazor.h6pgu9i50m.bundle.scp.css>; rel=\"preload\"; as=\"style\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "igxo94s72r"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-noeV+9Gfe5DjzKhYKCTJUSs9mfhYXIwfpg3wXQf+izQ="
+        },
+        {
+          "Name": "label",
+          "Value": "BlazorPruebas.styles.css"
+        }
+      ]
+    },
+    {
+      "Route": "BlazorPruebas.igxo94s72r.styles.css.gz",
+      "AssetFile": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\shwqidvi2m-igxo94s72r.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2547"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CA3dXsyreyoojKKJ30uny+7K06Nokyz+MYBB3OAqnJ8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 17:08:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "igxo94s72r"
+        },
+        {
+          "Name": "label",
+          "Value": "BlazorPruebas.styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CA3dXsyreyoojKKJ30uny+7K06Nokyz+MYBB3OAqnJ8="
         }
       ]
     },
@@ -2494,7 +4512,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 08 Apr 2025 14:02:07 GMT"
+          "Value": "Tue, 08 Apr 2025 17:08:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2555,7 +4573,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 08 Apr 2025 14:02:07 GMT"
+          "Value": "Tue, 08 Apr 2025 17:08:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2600,7 +4618,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 08 Apr 2025 14:02:07 GMT"
+          "Value": "Tue, 08 Apr 2025 17:08:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2631,174 +4649,13 @@
       ]
     },
     {
-      "Route": "BlazorPruebas.p84dfzxk9h.styles.css",
-      "AssetFile": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\shwqidvi2m-p84dfzxk9h.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000401606426"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2489"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"36HH47hTfzXX3x9K4aH7ILQaxmPTgiCJONTLfJDvq2c=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 08 Apr 2025 14:02:07 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"uUFJrE1enZRE88ZZbvSdpjsVHv81//yWGz5ZF/Ay7xw=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "p84dfzxk9h"
-        },
-        {
-          "Name": "label",
-          "Value": "BlazorPruebas.styles.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-uUFJrE1enZRE88ZZbvSdpjsVHv81//yWGz5ZF/Ay7xw="
-        }
-      ]
-    },
-    {
-      "Route": "BlazorPruebas.p84dfzxk9h.styles.css",
-      "AssetFile": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\scopedcss\\bundle\\BlazorPruebas.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8308"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"uUFJrE1enZRE88ZZbvSdpjsVHv81//yWGz5ZF/Ay7xw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 08 Apr 2025 14:02:07 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "p84dfzxk9h"
-        },
-        {
-          "Name": "label",
-          "Value": "BlazorPruebas.styles.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-uUFJrE1enZRE88ZZbvSdpjsVHv81//yWGz5ZF/Ay7xw="
-        }
-      ]
-    },
-    {
-      "Route": "BlazorPruebas.p84dfzxk9h.styles.css.gz",
-      "AssetFile": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\shwqidvi2m-p84dfzxk9h.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2489"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"36HH47hTfzXX3x9K4aH7ILQaxmPTgiCJONTLfJDvq2c=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 08 Apr 2025 14:02:07 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "p84dfzxk9h"
-        },
-        {
-          "Name": "label",
-          "Value": "BlazorPruebas.styles.css.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-36HH47hTfzXX3x9K4aH7ILQaxmPTgiCJONTLfJDvq2c="
-        }
-      ]
-    },
-    {
       "Route": "BlazorPruebas.styles.css",
-      "AssetFile": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\shwqidvi2m-p84dfzxk9h.gz",
+      "AssetFile": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\shwqidvi2m-igxo94s72r.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000401606426"
+          "Quality": "0.000392464678"
         }
       ],
       "ResponseHeaders": [
@@ -2808,15 +4665,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2489"
+          "Value": "2547"
         },
         {
           "Name": "ETag",
-          "Value": "\"36HH47hTfzXX3x9K4aH7ILQaxmPTgiCJONTLfJDvq2c=\""
+          "Value": "\"CA3dXsyreyoojKKJ30uny+7K06Nokyz+MYBB3OAqnJ8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 08 Apr 2025 14:02:07 GMT"
+          "Value": "Tue, 08 Apr 2025 17:08:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2836,13 +4693,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"uUFJrE1enZRE88ZZbvSdpjsVHv81//yWGz5ZF/Ay7xw=\""
+          "Value": "W/\"noeV+9Gfe5DjzKhYKCTJUSs9mfhYXIwfpg3wXQf+izQ=\""
+        },
+        {
+          "Name": "Link",
+          "Value": "<_content/LiveChartsCore.SkiaSharpView.Blazor/LiveChartsCore.SkiaSharpView.Blazor.h6pgu9i50m.bundle.scp.css>; rel=\"preload\"; as=\"style\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-uUFJrE1enZRE88ZZbvSdpjsVHv81//yWGz5ZF/Ay7xw="
+          "Value": "sha256-noeV+9Gfe5DjzKhYKCTJUSs9mfhYXIwfpg3wXQf+izQ="
         }
       ]
     },
@@ -2856,8 +4717,12 @@
           "Value": "bytes"
         },
         {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
           "Name": "Content-Length",
-          "Value": "8308"
+          "Value": "8432"
         },
         {
           "Name": "Content-Type",
@@ -2865,27 +4730,27 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"uUFJrE1enZRE88ZZbvSdpjsVHv81//yWGz5ZF/Ay7xw=\""
+          "Value": "\"noeV+9Gfe5DjzKhYKCTJUSs9mfhYXIwfpg3wXQf+izQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 08 Apr 2025 14:02:07 GMT"
+          "Value": "Tue, 08 Apr 2025 17:08:27 GMT"
         },
         {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Name": "Link",
+          "Value": "<_content/LiveChartsCore.SkiaSharpView.Blazor/LiveChartsCore.SkiaSharpView.Blazor.h6pgu9i50m.bundle.scp.css>; rel=\"preload\"; as=\"style\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-uUFJrE1enZRE88ZZbvSdpjsVHv81//yWGz5ZF/Ay7xw="
+          "Value": "sha256-noeV+9Gfe5DjzKhYKCTJUSs9mfhYXIwfpg3wXQf+izQ="
         }
       ]
     },
     {
       "Route": "BlazorPruebas.styles.css.gz",
-      "AssetFile": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\shwqidvi2m-p84dfzxk9h.gz",
+      "AssetFile": "D:\\Usuarios\\carlos.archila\\OneDrive - ACTSIS LTDA\\Escritorio\\Carlos Archila\\BlazorPruebas\\BlazorPruebas\\obj\\Debug\\net9.0\\compressed\\shwqidvi2m-igxo94s72r.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2894,7 +4759,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2489"
+          "Value": "2547"
         },
         {
           "Name": "Content-Type",
@@ -2902,11 +4767,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"36HH47hTfzXX3x9K4aH7ILQaxmPTgiCJONTLfJDvq2c=\""
+          "Value": "\"CA3dXsyreyoojKKJ30uny+7K06Nokyz+MYBB3OAqnJ8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 08 Apr 2025 14:02:07 GMT"
+          "Value": "Tue, 08 Apr 2025 17:08:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2924,7 +4789,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-36HH47hTfzXX3x9K4aH7ILQaxmPTgiCJONTLfJDvq2c="
+          "Value": "sha256-CA3dXsyreyoojKKJ30uny+7K06Nokyz+MYBB3OAqnJ8="
         }
       ]
     },

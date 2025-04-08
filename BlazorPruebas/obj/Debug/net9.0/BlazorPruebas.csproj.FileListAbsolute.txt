@@ -95,9 +95,16 @@ D:\Usuarios\carlos.archila\Desktop\Carlos Archila\BlazorPruebas\BlazorPruebas\ob
 D:\Usuarios\carlos.archila\Desktop\Carlos Archila\BlazorPruebas\BlazorPruebas\obj\Debug\net9.0\compressed\rkvdqibnh6-5vsvpv51hy.gz
 D:\Usuarios\carlos.archila\Desktop\Carlos Archila\BlazorPruebas\BlazorPruebas\obj\Debug\net9.0\compressed\1kecf13r7a-5vsvpv51hy.gz
 D:\Usuarios\carlos.archila\Desktop\Carlos Archila\BlazorPruebas\BlazorPruebas\bin\Debug\net9.0\Markdig.dll
+D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\obj\Debug\net9.0\BlazorPruebas.csproj.AssemblyReference.cache
+D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\obj\Debug\net9.0\BlazorPruebas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\obj\Debug\net9.0\BlazorPruebas.AssemblyInfoInputs.cache
+D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\obj\Debug\net9.0\BlazorPruebas.AssemblyInfo.cs
+D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\obj\Debug\net9.0\BlazorPruebas.csproj.CoreCompileInputs.cache
+D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\obj\Debug\net9.0\BlazorPruebas.MvcApplicationPartsAssemblyInfo.cache
+D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\obj\Debug\net9.0\BlazorPruebas.sourcelink.json
+D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\bin\Debug\net9.0\release\web.config
 D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\bin\Debug\net9.0\appsettings.Development.json
 D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\bin\Debug\net9.0\appsettings.json
-D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\bin\Debug\net9.0\release\web.config
 D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\bin\Debug\net9.0\release\appsettings.Development.json
 D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\bin\Debug\net9.0\release\appsettings.json
 D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\bin\Debug\net9.0\release\BlazorPruebas.deps.json
@@ -110,6 +117,10 @@ D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\Blaz
 D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\bin\Debug\net9.0\BlazorPruebas.runtimeconfig.json
 D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\bin\Debug\net9.0\BlazorPruebas.dll
 D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\bin\Debug\net9.0\BlazorPruebas.pdb
+D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\bin\Debug\net9.0\HarfBuzzSharp.dll
+D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\bin\Debug\net9.0\LiveChartsCore.dll
+D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\bin\Debug\net9.0\LiveChartsCore.SkiaSharpView.dll
+D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\bin\Debug\net9.0\LiveChartsCore.SkiaSharpView.Blazor.dll
 D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\bin\Debug\net9.0\Markdig.dll
 D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\bin\Debug\net9.0\Microsoft.AspNetCore.Connections.Abstractions.dll
 D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\bin\Debug\net9.0\Microsoft.AspNetCore.Http.Connections.Client.dll
@@ -125,18 +136,30 @@ D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\Blaz
 D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
 D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
 D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\bin\Debug\net9.0\SkiaSharp.dll
+D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\bin\Debug\net9.0\SkiaSharp.HarfBuzz.dll
+D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\bin\Debug\net9.0\SkiaSharp.Views.Blazor.dll
 D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\bin\Debug\net9.0\System.Net.ServerSentEvents.dll
-D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\obj\Debug\net9.0\BlazorPruebas.csproj.AssemblyReference.cache
-D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\obj\Debug\net9.0\BlazorPruebas.GeneratedMSBuildEditorConfig.editorconfig
-D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\obj\Debug\net9.0\BlazorPruebas.AssemblyInfoInputs.cache
-D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\obj\Debug\net9.0\BlazorPruebas.AssemblyInfo.cs
-D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\obj\Debug\net9.0\BlazorPruebas.csproj.CoreCompileInputs.cache
-D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\obj\Debug\net9.0\BlazorPruebas.MvcApplicationPartsAssemblyInfo.cache
-D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\obj\Debug\net9.0\BlazorPruebas.sourcelink.json
+D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\bin\Debug\net9.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\bin\Debug\net9.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\bin\Debug\net9.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\bin\Debug\net9.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\bin\Debug\net9.0\runtimes\osx\native\libSkiaSharp.dylib
+D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\bin\Debug\net9.0\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\bin\Debug\net9.0\runtimes\win-x64\native\libSkiaSharp.dll
+D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\bin\Debug\net9.0\runtimes\win-x86\native\libSkiaSharp.dll
 D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\obj\Debug\net9.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
 D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\obj\Debug\net9.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
 D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\obj\Debug\net9.0\scopedcss\bundle\BlazorPruebas.styles.css
 D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\obj\Debug\net9.0\scopedcss\projectbundle\BlazorPruebas.bundle.scp.css
+D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\obj\Debug\net9.0\compressed\cuz866ltsq-etlkpx4lxp.gz
+D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\obj\Debug\net9.0\compressed\mwy15b7rld-zunsvndtiu.gz
+D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\obj\Debug\net9.0\compressed\pvibyho98s-f7ihrsj3bb.gz
+D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\obj\Debug\net9.0\compressed\tp7lthi7ky-1fk33y95qa.gz
+D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\obj\Debug\net9.0\compressed\l626ovt2mm-kcqxblcsb9.gz
+D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\obj\Debug\net9.0\compressed\p5gtxtyijb-z305cnf0uw.gz
+D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\obj\Debug\net9.0\compressed\my9dyuumrs-i504ejmbfm.gz
+D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\obj\Debug\net9.0\compressed\9qpkv3grdq-qngquw9r7v.gz
 D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\obj\Debug\net9.0\compressed\5tap4wh2v7-khy4lop6wu.gz
 D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\obj\Debug\net9.0\compressed\ctxoqt3e1h-bqjiyaj88i.gz
 D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\obj\Debug\net9.0\compressed\egcf4te7on-c2jlpeoesf.gz
@@ -182,6 +205,9 @@ D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\Blaz
 D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\obj\Debug\net9.0\compressed\p0lkf1rnss-h1s4sie4z3.gz
 D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\obj\Debug\net9.0\compressed\474og4usf2-63fj8s7r0e.gz
 D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\obj\Debug\net9.0\compressed\24q6anfnnr-0j3bgjxly4.gz
+D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\obj\Debug\net9.0\compressed\bplelio17e-h6pgu9i50m.gz
+D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\obj\Debug\net9.0\compressed\shwqidvi2m-igxo94s72r.gz
+D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\obj\Debug\net9.0\compressed\fvqdvx19p0-p84dfzxk9h.gz
 D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\obj\Debug\net9.0\staticwebassets.build.json
 D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\obj\Debug\net9.0\staticwebassets.development.json
 D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\obj\Debug\net9.0\staticwebassets.build.endpoints.json
@@ -197,5 +223,3 @@ D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\Blaz
 D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\obj\Debug\net9.0\BlazorPruebas.pdb
 D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\obj\Debug\net9.0\BlazorPruebas.genruntimeconfig.cache
 D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\obj\Debug\net9.0\ref\BlazorPruebas.dll
-D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\obj\Debug\net9.0\compressed\shwqidvi2m-p84dfzxk9h.gz
-D:\Usuarios\carlos.archila\OneDrive - ACTSIS LTDA\Escritorio\Carlos Archila\BlazorPruebas\BlazorPruebas\obj\Debug\net9.0\compressed\fvqdvx19p0-p84dfzxk9h.gz
